@@ -1,6 +1,6 @@
 ### Olá, eu sou o José Augusto <a href="https://www.felipenovais.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-Aqui é onde guardo alguns projetos pessoais, projetos de aprendizado e algumas tentativas frustradas :rofl:
+Seja bem-vindo ao meu github, aqui é onde meus projetos são armazenados e meu objetivo é construir um sólido conhecimento em backend com PHP.
 
 - 🔭 &nbsp;Atualmente trabalhando como <b>Backend 🐘</b> 
 - 🌱 &nbsp;Focado na stack PHP com `Laravel`, `AWS` e `Clean Code`
